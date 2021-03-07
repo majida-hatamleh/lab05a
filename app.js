@@ -15,6 +15,7 @@ let sum = a + b ;
 let sumArray = [sum,'The sum of ' + a + ' and ' + b + ' is ' + sum + "."];
 console.log(sumArray);
 return sumArray;
+}
 
 
 // Here is the test for sum(); uncomment it to run it
